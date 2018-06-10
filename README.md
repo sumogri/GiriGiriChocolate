@@ -2,6 +2,10 @@
 Unity1週間ゲームジャム 「ぎりぎり」 投稿ゲーム  
 Unityちゃんを操作してギリで義理なチョコレートを届けよう!  
 
+## ゲームをあそぶ
+ブラウザで以下へアクセス  
+[https://sumogri.github.io/GiriGiriChocolate/](https://sumogri.github.io/GiriGiriChocolate/)  
+
 ## 操作
 w,a,s,d 移動  
 Space 次へ/ジャンプ
