@@ -4,9 +4,6 @@
 /[Bb]uild/
 /[Bb]uilds/
 
-/Assets/*
-!/Assets/Chocolate.meta
-!/Assets/Chocolate/
 !.gitkeep
 /.vs/*
 
